@@ -18,7 +18,7 @@ namespace LinkedListQuestion
         {
 
 
-            if (linkedList.Count <3 || linkedList.First==null)
+            if (linkedList.First==null)
             {
 
                 return false;
